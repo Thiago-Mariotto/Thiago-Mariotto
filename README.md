@@ -23,10 +23,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-[![leomaurodesenv's github stats](https://github-readme-stats.vercel.app/api?username=thiago-mariotto&count_private=true&hide=issues&show_icons=true&title_color=007ec6&icon_color=007ec6&line_height=24)](https://github.com/leomaurodesenv)
+[![thiago-mariotto github stats](https://github-readme-stats.vercel.app/api?username=thiago-mariotto&count_private=true&hide=issues&show_icons=true&title_color=007ec6&icon_color=007ec6&line_height=24)](https://github.com/leomaurodesenv)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-mariotto&layout=compact&langs_count=6&hide=php&title_color=007ec6&icon_color=007ec6)](https://profile.codersrank.io/user/leomaurodesenv/)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-mariotto&layout=compact) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-
 
 
