@@ -1,4 +1,4 @@
-### <p align=center>Hello World</p>
+# <p align=center>Hello World</p>
 <p align=center>
   <a href="https://github.com/thiago-mariotto" target="_blank">
     <img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="24px" height="24px">
@@ -11,17 +11,21 @@
   </a> 
 </p>
 
-Here are some ideas to get you started:
+### 🔭 Quem sou eu?
+  - Thiago Mariotto
+  - 25 anos
+  - Formado em Ciência da Computação
+  - Amante de games (The Last of Us é sim o melhor game 😝)
 
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+### 🤓 Tecnologias do coração
+  - Javascript - Nodejs + Express ❤️
+  - C# - Unity Engine ❤️
+ 
+### 🤔 O que gosto de fazer?
+  - Automarizar tarefas repetitivas 🔁
+  - Jogar por horas 🔌
+  - Receber novos desafios ✔️
+  - Compartilhar conhecimento 🧮
 
 [![thiago-mariotto github stats](https://github-readme-stats.vercel.app/api?username=thiago-mariotto&count_private=true&hide=issues&show_icons=true&title_color=007ec6&icon_color=007ec6&line_height=24)](https://github.com/leomaurodesenv)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-mariotto&layout=compact&langs_count=6&hide=php&title_color=007ec6&icon_color=007ec6)](https://profile.codersrank.io/user/leomaurodesenv/)
