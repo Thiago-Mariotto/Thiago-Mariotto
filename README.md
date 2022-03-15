@@ -20,7 +20,7 @@
   - Amante de games (The Last of Us é sim o melhor game 😝)
 
 ### 🤓 Tecnologias do coração
-  - Javascript - Nodejs + Express ❤️
+  - Javascript - Nodejs ❤️
   - C# - Unity Engine ❤️
  
 ### 🤔 O que gosto de fazer?
