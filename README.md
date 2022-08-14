@@ -19,13 +19,9 @@
   - Formado em Ciência da Computação
   - Amante de games (The Last of Us é sim o melhor game 😝)
 
-### 🤓 Tecnologias do coração
-  - Javascript - Nodejs ❤️
-  - C# - Unity Engine ❤️
- 
 ### 🤔 O que gosto de fazer?
   - Automarizar tarefas repetitivas 🔁
-  - Jogar por horas 🔌
+  - Jogar 🔌
   - Receber novos desafios ✔️
   - Compartilhar conhecimento 🧮
 
