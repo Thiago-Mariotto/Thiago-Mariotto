@@ -15,10 +15,9 @@
 
 ### 🔭 Quem sou eu?
   - Thiago Mariotto
-  - 26 anos
+  - 27 anos
   - Formado em Ciência da Computação
-  - Amante de games (The Last of Us é sim o melhor game 😝)
-
+  - 
 ### 🤔 O que gosto de fazer?
   - Automarizar tarefas repetitivas 🔁
   - Jogar 🔌
