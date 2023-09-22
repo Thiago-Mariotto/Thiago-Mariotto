@@ -17,7 +17,8 @@
   - Thiago Mariotto
   - 27 anos
   - Formado em Ciência da Computação
-  - 
+
+
 ### 🤔 O que gosto de fazer?
   - Automarizar tarefas repetitivas 🔁
   - Jogar 🔌
