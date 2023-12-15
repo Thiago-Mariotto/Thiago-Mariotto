@@ -3,9 +3,6 @@
   <a href="https://github.com/thiago-mariotto" target="_blank">
     <img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="24px" height="24px">
   </a> 
-  <a href="https://www.instagram.com/thiiagomariotto/" target="_blank">
-    <img src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="24px" height="24px">
-  </a> 
   <a href="https://www.linkedin.com/in/thiagomariotto/" target="_blank">
     <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="24px" height="24px">
   </a> 
