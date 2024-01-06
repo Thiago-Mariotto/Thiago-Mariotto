@@ -1,21 +1,33 @@
-# <p align=center>Hello World</p>
-<p align=center>
-  <a href="https://github.com/thiago-mariotto" target="_blank">
-    <img src="https://cdn.iconscout.com/icon/free/png-506/github-108-438008.png" width="24px" height="24px">
-  </a> 
-  <a href="https://www.linkedin.com/in/thiagomariotto/" target="_blank">
-    <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="24px" height="24px">
-  </a> 
-</p>
+# <p align=center>👋 Hello World</p>
 
+---
 
+Olá, meu nome é Thiago Mariotto! Desenvolvedor de software com mais de 6 anos de experiência, especializado em JavaScript/TypeScript para backend. Apaixonado por criar soluções inovadoras e eficientes. Experiência em lecionar, com um histórico comprovado em projetos de desenvolvimento web. Sempre em busca de novos desafios e oportunidades para aprender e crescer na área de tecnologia.
+
+<img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200'>
 
 ### 🔭 Quem sou eu?
-  - Thiago Mariotto
-  - Desenvolvedor Back-end
-  - 27 anos
-  - Formado em Ciência da Computação
-  - +6 anos de experiência
+  - 👨🏽 Thiago Mariotto
+  - 🧑🏾‍💻 Desenvolvedor Back-end
+  - 🎓 Formado em Ciência da Computação
+  - ⏰ +6 anos de experiência
+- 💼 Atualmente trabalhando na [Trybe](https://www.betrybe.com);
+- 🌱 Estudando sobre microserviços;
+
+---
+
+### 📒 Contatos:
+
+<div>
+<a href="https://www.linkedin.com/in/thiagomariotto" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+<a href = "mailto:thiagomariotto@outlook.com.br"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="[https://www.youtube.com/seu-canal-youtube-aqui](https://www.youtube.com/@thiagomariotto)" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+</div>
+
+---
+
+### 📐 Projetos em Destaque do Momento
+Projeto Menu Online API: [ver no github](https://github.com/Thiago-Mariotto/menu-online-api)
 
 ---
 
@@ -82,8 +94,12 @@
 
 ---
 
+<div align="center">
+	
 [![thiago-mariotto github stats](https://github-readme-stats.vercel.app/api?username=thiago-mariotto&count_private=true&hide=issues&show_icons=true&title_color=007ec6&icon_color=007ec6&line_height=24)](https://github.com/thiago-mariotto)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-mariotto&layout=compact&langs_count=6&hide=php&title_color=007ec6&icon_color=007ec6)](https://profile.codersrank.io/user/github.com/thiago-mariotto/)
+
+</div>
 
 <br>
 <p align=center>
