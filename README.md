@@ -26,26 +26,11 @@
 
 #### Linguagens de programação
 
-<div align="left">
-  <code><img width="50" src="https://user-images.githubusercontent.com/50181517/183890598-19a0ac2d-e88a-5005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/></code>
-  <code><img width="50" src="https://user-images.githubusercontent.com/50181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code>
-  <code><img width="50" src="https://user-images.githubusercontent.com/50181517/121505384-444d7500-c95d-11eb-959f-915020d3bf90.png" alt="C#" title="C#"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/50181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
-</div>
-
-#### Frameworks
-<div>
-  <code><img width="50" src="https://user-images.githubusercontent.com/50181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Express" title="Express"/></code>
-  <code><img width="50" src="https://user-images.githubusercontent.com/50181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/50181517/117448124-a2da9800-af3e-11eb-85d2-bd1b69b65603.png" alt="Vue.js" title="Vue.js"/></code>
-</div>
-
-#### Testes automatizados
-
-<div align="left">
-  <code><img width="50" src="https://user-images.githubusercontent.com/50181517/201476472-d2f5f644-cfc9-43e5-96d3-c8f50f18b5cb.png" alt="Chai" title="Chai"/></code>
-  <code><img width="50" src="https://user-images.githubusercontent.com/50181517/201476650-f47cfff6-fdee-4ee1-9092-1793b71b1ca3.png" alt="Mocha" title="Mocha"/></code>
-  <code><img width="50" src="https://user-images.githubusercontent.com/50181517/187955005-f4ca6f1a-e727-497b-b81b-93fb9726268e.png" alt="Jest" title="Jest"/></code>
+<div >
+	<code><img width="25" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code>
+	<code><img width="25" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/></code>
+	<code><img width="25" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="C#" title="C#"/></code>
+	<code><img width="25" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
 </div>
 
 
