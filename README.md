@@ -10,9 +10,9 @@ Olá, meu nome é Thiago Mariotto! Desenvolvedor de software com mais de 6 anos 
   - 👨🏽 Thiago Mariotto
   - 🧑🏾‍💻 Desenvolvedor Back-end
   - 🎓 Formado em Ciência da Computação
-  - ⏰ +6 anos de experiência
+  - ⏰ +7 anos de experiência
 - 💼 Atualmente trabalhando na [Trybe](https://www.betrybe.com);
-- 🌱 Estudando sobre microserviços;
+- 🌱 Estudando sobre microserviços e práticas DevOps na AWS;
 
 ---
 
@@ -23,11 +23,6 @@ Olá, meu nome é Thiago Mariotto! Desenvolvedor de software com mais de 6 anos 
 <a href = "mailto:thiagomariotto@outlook.com.br"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="[https://www.youtube.com/seu-canal-youtube-aqui](https://www.youtube.com/@thiagomariotto)" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 </div>
-
----
-
-### 📐 Projetos em Destaque do Momento
-Projeto Menu Online API: [ver no github](https://github.com/Thiago-Mariotto/menu-online-api)
 
 ---
 
