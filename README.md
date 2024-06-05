@@ -8,7 +8,7 @@ Olá, meu nome é Thiago Mariotto! Desenvolvedor de software com mais de 6 anos 
 
 ### 🔭 Quem sou eu?
   - 👨🏽 Thiago Mariotto
-  - 🧑🏾‍💻 Desenvolvedor Back-end
+  - 🧑🏾‍💻 Desenvolvedor Fullstack com foco em Backend.
   - 🎓 Formado em Ciência da Computação
   - ⏰ +7 anos de experiência
 - 💼 Atualmente trabalhando na [Trybe](https://www.betrybe.com);
