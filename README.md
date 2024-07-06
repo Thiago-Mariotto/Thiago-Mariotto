@@ -11,7 +11,6 @@ Olá, meu nome é Thiago Mariotto! Desenvolvedor de software com mais de 6 anos 
   - 🧑🏾‍💻 Desenvolvedor Fullstack com foco em Backend.
   - 🎓 Formado em Ciência da Computação
   - ⏰ +7 anos de experiência
-- 💼 Atualmente trabalhando na [Trybe](https://www.betrybe.com);
 - 🌱 Estudando sobre microserviços e práticas DevOps na AWS;
 
 ---
