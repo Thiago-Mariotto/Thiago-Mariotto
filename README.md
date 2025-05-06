@@ -2,7 +2,7 @@
 
 ---
 
-Olá, meu nome é Thiago Mariotto! Desenvolvedor de software com mais de 8 anos de experiência, especializado em JavaScript/TypeScript. Apaixonado por criar soluções inovadoras e eficientes. Experiência em lecionar, com um histórico comprovado em projetos de desenvolvimento web. Sempre em busca de novos desafios e oportunidades para aprender e crescer na área de tecnologia.
+Olá, meu nome é Thiago Mariotto! Desenvolvedor de software com mais de 10 anos de experiência, especializado em JavaScript/TypeScript, experiência em Python e C# (mas aceito desafios), atualmente trabalhando e implementando AI para todos os lados. Apaixonado por criar soluções inovadoras e eficientes. Experiência em lecionar, com um histórico comprovado em projetos de desenvolvimento web. Sempre em busca de novos desafios e oportunidades para aprender e crescer na área de tecnologia.
 
 <img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200'>
 
