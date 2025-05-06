@@ -8,7 +8,7 @@ Olá, meu nome é Thiago Mariotto! Desenvolvedor de software com mais de 8 anos 
 
 ### 🔭 Quem sou eu?
   - 👨🏽 Thiago Mariotto
-  - 🧑🏾‍💻 Desenvolvedor Fullstack com foco em Backend.
+  - 🧑🏾‍💻 Desenvolvedor Senior Fullstack com foco em Backend
   - 🎓 Formado em Ciência da Computação
   - ⏰ +10 anos de experiência
   - 🎨 Experiência Atual: Senior Fullstack Developer na [Vitae.ai](https://vitae.ai)
