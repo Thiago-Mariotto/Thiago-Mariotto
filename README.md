@@ -17,6 +17,7 @@ Olá, meu nome é Thiago Mariotto! Desenvolvedor de software com mais de 10 anos
 
 ### 💻 Projetos em execução
 
+Projetos pessoais (SaaS) que estão rodando como uma renda extra:
   - [Sendyx](https://sendyx.com) Plataforma de automação no Instagram
   - [InterviewPeak](https://interviewpeak.com) Plataforma de simulação de entrevistas com AI. 
 
