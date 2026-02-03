@@ -2,40 +2,49 @@
 
 ---
 
-Olá, meu nome é Thiago Mariotto! Desenvolvedor de software com mais de 10 anos de experiência, especializado em JavaScript/TypeScript, experiência em Python e C# (mas aceito desafios), atualmente trabalhando e implementando AI para todos os lados. Apaixonado por criar soluções inovadoras e eficientes. Experiência em lecionar, com um histórico comprovado em projetos de desenvolvimento web. Sempre em busca de novos desafios e oportunidades para aprender e crescer na área de tecnologia.
+I'm a Senior Full Stack Software Engineer with 10+ years of experience. Based in Brazil, I currently work remotely as a Senior Full Stack Engineer for a UAE-based AI company and as Founder & CTO of Sendyx, a SaaS platform for social media automation.
+I build scalable, maintainable applications that streamline processes and solve complex challenges. 
+Below is a quick overview of my key skills and technologies:
+Frontend Development: React, TypeScript, JavaScript ES6+, HTML5, CSS3, Responsive Design
+Backend Development: Node.js (NestJS, Express), Python, RESTful APIs, GraphQL, Microservices Architecture
+Cloud & Infrastructure: AWS (Lambda, S3, SQS, SNS, EC2, ECS, CloudWatch, API Gateway, RDS, DynamoDB), Docker, CI/CD
+Databases: MongoDB, PostgreSQL, MySQL, Elasticsearch, Redis
+AI & Machine Learning: LLMs integration, Natural Language Processing, Machine Learning models
+Software Design & Architecture: SOLID principles, Design Patterns, asynchronous and resilient systems (with a focus on idempotency and eventual consistency), Event-driven architecture, Clean Architecture, Microservices Architecture
+Testing: TDD, Unit Testing, Integration Testing, E2E
+
+I've designed and built scalable, fault-tolerant applications for both startups and established companies. I actively engage in technical discussions with multicultural teams, using English daily to align strategies and deliver solutions tailored to diverse business needs.
+Specializing in full-stack development with AWS-powered architectures, I develop automation workflows, optimize applications performance, and implement event-driven solutions. I work closely with Product Managers, QA teams, and stakeholders to ensure agile and efficient project execution.
+Beyond coding, I document project architectures to foster knowledge sharing and mentor junior and mid-level developers. My teaching experience includes 4+ years as an instructor at leading tech education companies, where I've mentored 500+ developers.
+My expertise includes leveraging AWS services and implementing modern development practices to automate workflows and improve deployment efficiency. I also design CI/CD pipelines and maintain high-quality codebases
+
+In the AI space, I build LLM-powered applications and AI-driven automation solutions, focusing on intelligent systems that enhance user experiences and business processes.
+As a Computer Science graduate and experienced technical leader, I'm committed to continuous learning, deepening my expertise in cloud computing, AI integration, and building robust, scalable applications that exceed expectations.
 
 <img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200'>
 
-### 🔭 Quem sou eu?
+### 🔭 Who is me?
   - 👨🏽 Thiago Mariotto
-  - 🧑🏾‍💻 Desenvolvedor Senior Fullstack com foco em Backend
-  - 🎓 Formado em Ciência da Computação
-  - ⏰ +10 anos de experiência
-  - 🎨 Experiência Atual: Senior Fullstack Developer na [Vitae.ai](https://vitae.ai)
+  - 🧑🏾‍💻 Senior Fullstack engineer
+  - 🎓 Bachelor's degree, Computer Science
+  - ⏰ +10 experience years
+  - 🎨 Working now as a Senior Fullstack Engineer at [Vitae.ai](https://vitae.ai)
 
 ---
 
-### 💻 Projetos em execução
-
-Projetos pessoais (SaaS) que estão rodando como uma renda extra:
-  - [Sendyx](https://sendyx.com) Plataforma de automação no Instagram
-  - [InterviewPeak](https://interviewpeak.com) Plataforma de simulação de entrevistas com AI. 
-
----
-
-### 📒 Contatos:
+### 📒 Contacts:
 
 <div>
 <a href="https://www.linkedin.com/in/thiagomariotto" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 <a href = "mailto:thiagomariotto@outlook.com.br"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="[https://www.youtube.com/seu-canal-youtube-aqui](https://www.youtube.com/@thiagomariotto)" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<a href="[https://www.youtube.com/@thiagomariotto](https://www.youtube.com/@thiagomariotto)" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 </div>
 
 ---
 
-### 💻 Tecnologias
+### 💻 Tech
 
-#### Linguagens de programação
+#### Programming Languages
 
 <div >
 	<code><img width="25" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code>
@@ -44,7 +53,7 @@ Projetos pessoais (SaaS) que estão rodando como uma renda extra:
 	<code><img width="25" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
 </div>
 
-#### Frameworks Back-end
+#### Back-end Frameworks
 <div >
 	<code><img width="25" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Express" title="Express"/></code>
 	<code><img width="25" src="https://user-images.githubusercontent.com/46967826/235814699-7bf7e5ce-19d1-469b-9efe-fe89412349d8.png" alt="Fastify" title="Fastify"/></code>
@@ -59,7 +68,7 @@ Projetos pessoais (SaaS) que estão rodando como uma renda extra:
 	<code><img width="25" src="https://user-images.githubusercontent.com/25181517/117448124-a2da9800-af3e-11eb-85d2-bd1b69b65603.png" alt="Vue.js" title="Vue.js"/></code>
 </div>
 
-#### Banco de dados
+#### Databases
 <div >
 	<code><img width="25" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" title="PostgreSQL"/></code>
 	<code><img width="25" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/></code>
@@ -68,7 +77,7 @@ Projetos pessoais (SaaS) que estão rodando como uma renda extra:
 	<code><img width="25" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/82df4543-236b-4e45-9604-5434e3faab17" alt="SQLite" title="SQLite"/></code>
 </div>
 
-#### Testes automatizados
+#### Tests
 <div >
 	<code><img width="25" src="https://user-images.githubusercontent.com/25181517/187955005-f4ca6f1a-e727-497b-b81b-93fb9726268e.png" alt="Jest" title="Jest"/></code>
 	<code><img width="25" src="https://user-images.githubusercontent.com/25181517/184117132-9e89a93b-65fb-47c3-91e7-7d0f99e7c066.png" alt="pytest" title="pytest"/></code>
@@ -76,7 +85,7 @@ Projetos pessoais (SaaS) que estão rodando como uma renda extra:
 	<code><img width="25" src="https://user-images.githubusercontent.com/25181517/201476630-f47cfff6-fdee-4ee1-9092-1793b71b1ca3.png" alt="Mocha" title="Mocha"/></code>
 </div>
 
-#### Outros
+#### Others
 <div >
 	<code><img width="25" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker"/></code>
 	<code><img width="25" src="https://user-images.githubusercontent.com/25181517/187070862-03888f18-2e63-4332-95fb-3ba4f2708e59.png" alt="websocket" title="websocket"/></code>
